@@ -8,6 +8,7 @@
 - Added function to save-button to take and save notes in each time-block to local storage.
 - Added function that color codes each time-block as past(grey), present(red), or future(green).
 
+<img width="1086" alt="image" src="https://user-images.githubusercontent.com/123603271/236724096-fce46094-3046-4406-b25b-c4a77893f016.png">
 
 ## License
 MIT License
